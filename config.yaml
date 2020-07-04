@@ -1,0 +1,10 @@
+search: "社團法人"
+n_process: 10
+visualize: False
+filters:
+  工作職稱:
+    includes:  
+    excludes: 
+  公司名稱:
+    includes: ["社團法人"]
+    excludes:
