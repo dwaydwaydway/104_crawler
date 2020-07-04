@@ -1,0 +1,90 @@
+api
+autocad
+autodesk
+avid
+bls
+bootstrap
+c#
+cad
+ccna
+coreldraw
+erp
+cpr
+css
+docker
+dreamweaver
+e-learning
+e-mail
+e-prime
+edius
+excel
+fcp
+flash
+g-suite
+git
+google
+google analytics
+html
+illustrator
+indesign
+isms
+iso
+java
+java script
+javascript
+jenkins
+jquery
+kfsyscc
+laravel
+level
+linq / lambda
+linux
+lpic
+mac
+maxon
+mcse
+micros
+microsoft
+microsoft azure
+microsoft office
+mssql
+mysql
+n-tier
+ncv
+.net
+net core
+nosql
+npo
+nrp
+office
+oop
+outlook
+photoshop
+php
+powerpoint
+praat
+premiere
+python
+responsive design
+restful
+rwd
+sas
+seo
+server
+sketch-up
+spss
+stata
+svn
+tsql
+ttqs
+unity3d
+ux/ui
+vm
+w3c
+web
+web api
+web/db
+window server
+windows
+word
+wordpress
